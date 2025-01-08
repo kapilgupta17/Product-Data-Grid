@@ -1,0 +1,13 @@
+{
+    "location": [
+      { "location": "Colorado", "potentialRevenue": "$624,596", "processingVolume": "$52,049,666", "merchant": "195", "revenueAccount": "$3,203","marketshare":"33.33%","commercial":"220" },
+      { "location": "Florida", "potentialRevenue": "$600,628", "processingVolume": "$52,049,666", "merchant": "195", "revenueAccount": "$3,203","marketshare":"33.33%","commercial":"220" },
+      { "location": "Mississippi", "potentialRevenue": "$640,596", "processingVolume": "$51,385,666", "merchant": "198", "revenueAccount": "$3,114","marketshare":"33.33%","commercial":"792" }
+    ],
+    "branch": [
+        { "location": "Branch 1", "potentialRevenue": "$878,269", "processingVolume": "$73,189,083", "merchant": "287", "revenueAccount": "$3,060","marketshare":"33.33%","commercial":"1,148" },
+        { "location": "Branch 2", "potentialRevenue": "$822,775", "processingVolume": "$68,564,583", "merchant": "257", "revenueAccount": "$3,201","marketshare":"33.33%","commercial":"1,028" },
+        { "location": "Branch 3", "potentialRevenue": "$817,009", "processingVolume": "$68,084,083", "merchant": "252", "revenueAccount": "$3,242","marketshare":"33.33%","commercial":"1,008" }
+    ]
+  }
+  
